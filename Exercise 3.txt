@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Who Am I</title>
+    
+    <!-- Internal CSS -->
+    <style>
+        .intro {
+            border: 2px solid navy;
+            padding: 10px;
+            width: 50%;
+            margin: auto;
+            background-color: #ffffff;
+        }
+    </style>
+    
+    <!-- Linking External CSS -->
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    
+    <h1>Who Am I</h1>
+    
+    <div class="intro">
+        <p><strong>Full Name:</strong> <span style="color: darkgreen;">Muhammad Iqbal Bakhshi Bin Faisal</span></p> <!-- Inline CSS -->
+        <p><strong>Age:</strong> 24 </p>
+        <p><strong>Educational Background:</strong> Diploma in Animation Creative and now pursuing Degree in New Media Communication</p>
+    </div>
+
+</body>
+</html>
